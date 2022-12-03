@@ -27,7 +27,7 @@ After you're finished please remove all the comments and instructions!
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>HelloWorld README Template</b></h3>
 
 </div>
 
@@ -39,52 +39,24 @@ After you're finished please remove all the comments and instructions!
   - [🛠 Htm and css](#built-with)
     - [Html5 css3](#tech-stack)
     - [Display "Hello world"](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [👥 andilemashala](#authors)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [HelloWorld] <a name="about-project"></a>
+# 📖 HelloWorld <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
 
-**[HelloWorld]** is a simple hmtl and css project that displays "Hello world" message
+**HelloWorld** is a simple hmtl and css project that displays "Hello world" message
 
 ## 🛠 Built With <a name="built-with"></a>
-
-### Tech Stack <a name="tech-stack"></a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
-
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
+Html5 and css3
 
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
-- **[display "hello world"]**
+- **display "hello world"**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -101,7 +73,6 @@ After you're finished please remove all the comments and instructions!
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
 
 👤 **Author1**
 
